@@ -1,0 +1,6 @@
+{
+  "format": "qon-service-status/1",
+  "keyId": "dfb1291dc80e4977",
+  "payload": "eyJwcm9kdWN0IjogImNzaS1xdWFsaXR5LWF1dG8iLCAic2VyaWFsIjogMSwgImlzc3VlZEF0IjogIjIwMjYtMTEtMTBUMDc6NTE6MDMrMDk6MDAiLCAiZXhwaXJlc0F0IjogIjIwMjctMDUtMDlUMDc6NTE6MDMrMDk6MDAiLCAic3RhdHVzIjogImFjdGl2ZSJ9",
+  "signature": "URE9B8K03PY/R6+rNWbTuufn1i02uMl+AqjfqJ2KzbimbkNLs0PgNnRMij0OLum/PHu/dJwlPr9xBtA9UuG9Cw=="
+}
